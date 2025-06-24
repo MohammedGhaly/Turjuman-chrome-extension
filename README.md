@@ -24,7 +24,9 @@
 
 ## 💡 Tip
 
-After installing, simply select a word on any webpage to see Turjuman in action!
+After installing don't forget to create an account and login through the chrome extension, now you are all set.
+
+simply select a word on any webpage to see Turjuman in action!
 
 ---
 
