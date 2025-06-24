@@ -15,7 +15,7 @@
 
 ## 📥 Download & Install
 
-1. [Download the latest build as a ZIP file](https://github.com/MohammedGhaly/turjuman-chrome-extension/releases/latest/download/Turjuman-Extension.zip)
+1. [Download the latest build as a ZIP file](https://github.com/MohammedGhaly/Turjuman-chrome-extension/releases/download/v1.0.0/Turjuman-Extension.zip)
 2. Open _Google Chrome_ and go to chrome://extensions/
 3. Enable _Developer mode_ (top right)
 4. Click _Load unpacked_ and select the unzipped folder of the extension
